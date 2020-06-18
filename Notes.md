@@ -15,3 +15,5 @@ Played around with a few of the tools.
 ## AntConc
 Imported all the documents into AntConc for analysis. Experimented with the various search filters.
 
+
+Putting everything together on my static side showed me a poor man's way to make buttons. Put | between multople links and it will format it as a table which with only one row looks like buttons (they're not since only the text is clickable not the whole box) but I found it interesting nonetheless.
