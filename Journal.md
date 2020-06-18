@@ -27,3 +27,5 @@ Similarly, I found it interesting that Gender collocated with groups, as it also
 
 
 For my exploration, I tried to follow a similar method as Michelle Moravec, using the macro view to narrow my research into a micro view of the data worked fairly well, and would have worked better if I left myself more time to do the analysis, and if I had a bigger corpus to work with.
+
+I go more into the work I did this week on my site [here](https://williamkohlman.github.io/William-Kohlman.github.io/Week6.html)
